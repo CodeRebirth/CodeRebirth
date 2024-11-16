@@ -1,8 +1,8 @@
 👋 Greetings! I'm Leonard Chongtham, a seasoned Flutter developer with a wealth of experience and a passion for crafting impeccable mobile applications.
 
-🚀 With a journey spanning 3 years in the world of Flutter, I've honed my skills to create apps that seamlessly blend functionality with aesthetics. My commitment to delivering top-notch user experiences has been the driving force behind every project I undertake.
+🚀 With a journey spanning 3.5 years in the world of Flutter, I've honed my skills to create apps that seamlessly blend functionality with aesthetics. My commitment to delivering top-notch user experiences has been the driving force behind every project I undertake.
 
-🎯 Over the course of my career, I've masterfully developed and deployed 5 Flutter projects that stand as a testament to my proficiency. From elegant UI design to implementing efficient state management, I take pride in my ability to turn concepts into reality.
+🎯 Over the course of my career, I've masterfully developed and deployed 7 Flutter projects that stand as a testament to my proficiency. From elegant UI design to implementing efficient state management, I take pride in my ability to turn concepts into reality.
 
 💡 My technical arsenal encompasses the entire Flutter ecosystem, including Dart, Provider, Riverpod, BLoC, Firebase, and beyond. I thrive on architecting applications with scalability and maintainability in mind, always striving for clean and organized codebases.
 
